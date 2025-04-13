@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c4c071a5-5870-4edd-b18c-6dd1cb9473a2" name="beeldherkenning" url="http://localhost:63342/beeldherkenning/index.html">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
